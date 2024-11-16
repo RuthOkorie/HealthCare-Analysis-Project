@@ -1,4 +1,4 @@
-### HealthCare-Analysis-Project
+#### HealthCare-Analysis-Project
 ---
 
 ### Project Overview
@@ -9,7 +9,7 @@ The Healthcare Analysis Dashboard provides a comprehensive view of hospital metr
 
 
 
-### DATA SOURCES
+### Data Sources
 
 The primary source of data used here is Healthcare Data.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle. [Download here](http://www.kaggle.com).
 
