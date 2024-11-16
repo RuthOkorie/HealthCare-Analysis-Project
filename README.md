@@ -1,5 +1,5 @@
 ## HealthCare-Analysis-Project
 
-#[Table Of Content](table-content)
+[Table Of Content](table-content)
 
 
