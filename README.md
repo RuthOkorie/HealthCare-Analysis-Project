@@ -60,13 +60,12 @@ EDA involves the exploring of the Data to answer some questions about the data s
  - Total Number of Patients: 56,000 patients in total.
  - Average time patients spend at the hospital: This implies that on average, patients stay at the hospital for 15.5 days(or nights) from admission to discharge indicating a relatively long hospital stay.
  - Total emergency Count: 18,000, which indicates a high volume of emergency cases and potential strain on resources.
-
-     ```DAX SYNTAX
+  ```DAX SYNTAX
 Conditional Column (Severity)
 If Admission type equals Elective then 1
 If Admission type equals Urgent   then 2
 Else 3
-      ``` 
+  ``` 
 
 ---
 ### Inference and Insights
@@ -100,15 +99,15 @@ The Admission Type Trends by Month visual shows how each admission type varies a
 ### Recommendations
 ---
 
--Optimize Staffing and Resource Allocation: Use insights from admission, discharge, and emergency trends to adjust staffing levels and allocate resources during peak times. For example, anticipated increases in emergency cases or seasonal patient influxes should prompt pre-emptive adjustments in staffing, bed availability, and medical supplies.
+- Optimize Staffing and Resource Allocation: Use insights from admission, discharge, and emergency trends to adjust staffing levels and allocate resources during peak times. For example, anticipated increases in emergency cases or seasonal patient influxes should prompt pre-emptive adjustments in staffing, bed availability, and medical supplies.
 
--Focus on High-Severity Cases and Preventive Measures: Identifying trends in severe medical conditions allows the hospital to prioritize resources for critical cases while also developing preventive care programs targeting prevalent, high-severity conditions. This dual approach can help reduce emergency admissions over time.
+- Focus on High-Severity Cases and Preventive Measures: Identifying trends in severe medical conditions allows the hospital to prioritize resources for critical cases while also developing preventive care programs targeting prevalent, high-severity conditions. This dual approach can help reduce emergency admissions over time.
 
--Implement Gender-Specific and Condition-Based Care Plans: Tailor healthcare programs and preventive measures for specific gender groups and high-frequency conditions. This targeted approach not only improves patient care but can also reduce repeat hospital visits, freeing up resources for new patients.
+- Implement Gender-Specific and Condition-Based Care Plans: Tailor healthcare programs and preventive measures for specific gender groups and high-frequency conditions. This targeted approach not only improves patient care but can also reduce repeat hospital visits, freeing up resources for new patients.
 
--Enhance Inventory Management for Medications: By tracking medication usage trends associated with specific conditions, the hospital can optimize its inventory, reducing shortages and ensuring critical medications are available when needed.
+- Enhance Inventory Management for Medications: By tracking medication usage trends associated with specific conditions, the hospital can optimize its inventory, reducing shortages and ensuring critical medications are available when needed.
 
--Regularly Monitor and Adjust to Emerging Trends: Admission and discharge trends, along with severity analysis, should be monitored regularly to adjust hospital operations dynamically. Monthly and seasonal variations in patient inflow provide a foundation for agile decision-making, ensuring the hospital maintains quality care standards consistently.
+- Regularly Monitor and Adjust to Emerging Trends: Admission and discharge trends, along with severity analysis, should be monitored regularly to adjust hospital operations dynamically. Monthly and seasonal variations in patient inflow provide a foundation for agile decision-making, ensuring the hospital maintains quality care standards consistently.
 
 
 
