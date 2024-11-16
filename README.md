@@ -7,6 +7,23 @@ The Healthcare Analysis Dashboard provides a comprehensive view of hospital metr
 ---
 ### Table of Contents
 
+[Project Overview](project-overview)
+
+[Data Sources](data-sources)
+
+[Tools Used](tools-used)
+
+[Data Cleaning and Preparation](data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](exploratory-data-analysis)
+
+[Data Analysis](data-analysis)
+
+[Visualisation](visualisation)
+
+[Inference and Insights](inference-and-insights)
+
+[Recommendations](recommendations)
 
 ---
 ### Data Sources
@@ -43,7 +60,7 @@ The primary source of data used here is Healthcare Data.csv and this is an open 
   5. Data quality check.
      
 ---
-### Data Analysis
+### Exploratory Data Analysis
 ---
 
 EDA involves the exploring of the Data to answer some questions about the data such as;
@@ -65,9 +82,11 @@ Conditional Column (Severity)
 If Admission type equals Elective then 1
 If Admission type equals Urgent   then 2
 Else 3
-  ``` 
-
+ ``` 
 ---
+### Visualisation
+---
+
 ### Inference and Insights
 ---
 
