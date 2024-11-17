@@ -7,23 +7,15 @@ The Healthcare Analysis Dashboard provides a comprehensive view of hospital metr
 ---
 ## Table of Contents
 
-- [Project Overview](project-overview)
-
-- [Data Sources](data-sources)
-
-- [Tools Used](tools-used)
-
-- [Data Cleaning and Preparation](data-cleaning-and-preparation)
-
-- [Exploratory Data Analysis](exploratory-data-analysis)
-
-- [Data Analysis](data-analysis)
-
-- [Visualisation](visualisation)
-
-- [Inference and Insights](inference-and-insights)
-
-- [Recommendations](recommendations)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Visualisation](#visualisation)
+- [Inference and Insights](#inference-and-insights)
+- [Recommendations](#recommendations)
 
 ---
 ### Data Sources
