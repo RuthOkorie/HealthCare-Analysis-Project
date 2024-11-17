@@ -9,7 +9,7 @@ The Healthcare Analysis Dashboard provides a comprehensive view of hospital metr
 ---
 
 - [Project Overview](project-overview)
- 
+
 - [Data Sources](data-sources)
 
 - [Tools Used](tools-used)
