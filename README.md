@@ -1,4 +1,4 @@
-## HealthCare-Analysis-Project
+## Health Care-Analysis-Project
 ---
 
 ### Project Overview
@@ -88,6 +88,11 @@ Else 3
 ### Visualisation
 ---
 
+![Health care project 2](https://github.com/user-attachments/assets/3c96f978-4984-47d5-9553-06b9dd2de34b)
+
+![Health Project](https://github.com/user-attachments/assets/2d696328-a3a8-4803-9311-001ee6701398)
+
+---
 ### Inference and Insights
 ---
 
