@@ -31,8 +31,8 @@ The primary source of data used here is Healthcare Data.csv and this is an open 
   1. This is used for initial data cleaning, formatting, and exploratory data analysis.
   2. It enabled me to pivot and analyze my data.
 - Microsoft Power BI
-  1. I leveraged Power Bi for data visualization and dashboard creation.
-  2. This is used for transforming raw data into clear and insightful visuals.
+  1. I utilized DAX functions to create calculations,measures, and data models.
+  2. I leveraged Power Bi for data visualization and dashboard creation.
 - SQL
   1. This is used for querying and extracting relevant data from the the database.
   2. I employed SQL for  data manipulation.
