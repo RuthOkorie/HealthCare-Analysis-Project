@@ -109,7 +109,7 @@ This visual groups medical conditions by admission types (such as, emergency, el
 The Discharge Trends visual highlights patient discharge patterns over time. This metric indicates year 2020 as the highest discharge trend with 11.3 thousand discharge records.
 
 - 8.Admission Type Trends by Month:
-The Admission Type Trends by Month visual shows how each admission type varies across different months. It provides valuable insights into the cyclical nature of hospital admissions while highlighting the various admission types, their number of intakes and the months it occurred, making 'August' the month with the highest total admission at 4.81 thousand.
+The Admission Type Trends by Month visual shows how each admission type varies across different months. It provides valuable insights into the cyclical nature of hospital admissions while highlighting the various admission types, their number of intakes and the months it occurred, making 'August' the month with the highest total admission at 4.83 thousand.
 
 ---
 ### Recommendations
