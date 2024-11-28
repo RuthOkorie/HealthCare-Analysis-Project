@@ -109,7 +109,7 @@ This visual breaks down medical conditions by their severity levels. From my ana
 This visual groups medical conditions by admission types (such as, emergency, elective, urgent), which helps in highlighting Elective as the admission type with the highest number of medical conditions. 
 
 - 8. Admission Type Trends by Month:
-The Admission Type Trends by Month visual shows how each admission type varies across different months. It provides valuable insights into the cyclical nature of hospital admissions while highlighting the various admission types, their number of intakes and the months it occurred.
+The Admission Type Trends by Month visual shows how each admission type varies across different months. It provides valuable insights into the cyclical nature of hospital admissions while highlighting the various admission types, their number of intakes and the months it occurred, making 'August' the month with the highest number patients intake.
 
 ---
 ### Recommendations
