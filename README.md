@@ -56,7 +56,7 @@ The primary source of data used here is Healthcare Data.csv and this is an open 
 ---
 
 EDA involves the exploring of the Data to answer some questions about the data such as;
-  - What are the average time patients spend at the hospital
+  - What are the average number of days patients spend at the hospital
   - What are the admission type by severity 
   - what are the medical conditions by gender
     
@@ -67,7 +67,7 @@ EDA involves the exploring of the Data to answer some questions about the data s
 **This is where I include some basic line of codes, queries or even DAX expressions used during my analysis**. 
 
  - Total Number of Patients: 56,000 patients in total.
- - Average Days patients spend at the hospital: This implies that on average, patients stay at the hospital for 15.5 days(or nights) from admission to discharge indicating a relatively long hospital stay.
+ - Average hospital Stay: This implies that on average, patients stay at the hospital for 15.5 days(or nights) from admission to discharge indicating a relatively long hospital stay.
  - Total Emergency Count: 18,000, which indicates a high volume of emergency cases and potential strain on resources.
   ```DAX SYNTAX
 Conditional Column (Severity)
@@ -93,22 +93,22 @@ Else 3
 
 - 2.Admission Type by Severity: Here, admission types are segmented by severity, where Elective admission equals 1, Urgent admission equals 2 and Emergency admission equals 3. From the analysis, the Elective admission type happens to be the most severe of all the admission types with a total number of 18.7 thousand patients recorded.
 
-- 3.Medication and medical condition
+- 3.Medication and medical condition:
 This chart shows the relationship between medications prescribed and their associated medical conditions. Aspirin appears to be the most commonly used medication for the treatment of various medical conditions.
 
-- 4.Discharge trends
+- 4.Discharge trends:
 The Discharge Trends visual highlights patient discharge patterns over time. This metric indicates year 2020 as the highest discharge trend with 11.3 thousand discharge records.
 
-- 5.Admission Trends
+- 5.Admission Trends:
 This visual captures admission trends, allowing the identification of high-traffic periods and hospital's admissions peak. From my observation, year 2020 has the highest admission rate with records of 11,307 Patients intake.
 
-- 6.Medical Condition by Severity
+- 6.Medical Condition by Severity:
 This visual breaks down medical conditions by their severity levels. From my analysis, the medical condition that is more prevalent in patients is Arthritis, making it the top on the list. About 9,308 patients suffer from this medical condition.
 
-- 7.Medical Condition by Admission Type
+- 7.Medical Condition by Admission Type:
 This visual groups medical conditions by admission types (such as, emergency, elective, urgent), which helps in highlighting Elective as the admission type with the highest number of medical conditions. 
 
-- 8. Admission Type Trends by Month
+- 8. Admission Type Trends by Month:
 The Admission Type Trends by Month visual shows how each admission type varies across different months. It provides valuable insights into the cyclical nature of hospital admissions while highlighting the various admission types, their number of intakes and the months it occurred.
 
 ---
