@@ -103,7 +103,7 @@ This chart shows the relationship between medications prescribed and their assoc
 - 5.Admission Type by Severity: Here, admission types are segmented by severity, where Elective admission equals 1, Urgent admission equals 2 and Emergency admission equals 3. From the analysis, the Elective admission type happens to be the most severe of all the admission types with a total number of 18.7 thousand patients recorded.
 
 - 6.Medical Condition by Admission Type:
-This visual groups medical conditions by admission types (such as, emergency, elective, urgent), which helps in highlighting Elective as the admission type with the highest number of medical conditions. 
+This visual groups medical conditions by admission types (such as, emergency, elective, urgent), which helps in highlighting Elective as the admission type with the highest number of medical conditions with 18.66 thousands records. 
 
 - 7.Discharge trends:
 The Discharge Trends visual highlights patient discharge patterns over time. This metric indicates year 2020 as the highest discharge trend with 11.3 thousand discharge records.
