@@ -67,8 +67,8 @@ EDA involves the exploring of the Data to answer some questions about the data s
 **This is where I include some basic line of codes, queries or even DAX expressions used during my analysis**. 
 
  - Total Number of Patients: 56,000 patients in total.
- - Average time patients spend at the hospital: This implies that on average, patients stay at the hospital for 15.5 days(or nights) from admission to discharge indicating a relatively long hospital stay.
- - Total emergency Count: 18,000, which indicates a high volume of emergency cases and potential strain on resources.
+ - Average Days patients spend at the hospital: This implies that on average, patients stay at the hospital for 15.5 days(or nights) from admission to discharge indicating a relatively long hospital stay.
+ - Total Emergency Count: 18,000, which indicates a high volume of emergency cases and potential strain on resources.
   ```DAX SYNTAX
 Conditional Column (Severity)
 If Admission type equals Elective then 1
