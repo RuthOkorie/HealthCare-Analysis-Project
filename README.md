@@ -2,7 +2,7 @@
 ---
 
 ### Project Overview
-The Lagos State Healthcare Analysis Dashboard provides a comprehensive view of hospital metrics and patient data to drive data-informed decision-making. By visually capturing these metrics, the dashboard supports hospital administrators in optimizing operations, improving patient's outcomes, and ensuring effective resource management. This dashboard aggregates and presents data on medical condition by gender, admission type by severity, medication and medical condition, discharge trends, admission trends, medical condition by severity,  and medical condition by admission type to identify trends, key areas for improvement and allowing for proactive measures and strategic resource planning to better serve patients and staff. 
+The California Healthcare Analysis Dashboard provides a comprehensive view of key hospital metrics and patient data to drive data-informed decision-making. By visually capturing these metrics, the dashboard supports hospital administrators in optimizing operations, improving patient's outcomes, and ensuring effective resource management. This dashboard aggregates and presents data on medical condition by gender, admission type by severity, medication and medical condition, discharge trends, admission trends, medical condition by severity,  and medical condition by admission type to identify trends, key areas for improvement and allowing for proactive measures and strategic resource planning to better serve patients and staff. 
 
 ---
 ## Table of Contents
@@ -89,7 +89,7 @@ Else 3
 
 **This is where I provide key findings from the analysis**   
 
-- 1.Medical Condition by Gender: This visual categorizes medical conditions by gender, providing valuable insights into health issues more prevalent among the male gender in lagos state, such as Asthma, Cancer, Diabetes and Hypertension. 
+- 1.Medical Condition by Gender: This visual categorizes medical conditions by gender, providing valuable insights into health issues more prevalent among the male gender in California, such as Asthma, Cancer, Diabetes and Hypertension. 
 
 - 2.Medical Condition by Severity:
 This visual breaks down medical conditions by their severity levels. From my analysis, the medical condition that is more prevalent in patients is Arthritis, making it the top on the list. About 9,308 patients suffer from this medical condition.
