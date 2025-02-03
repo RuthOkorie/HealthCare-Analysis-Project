@@ -81,7 +81,8 @@ Else 3
 
 ![Health care project 2](https://github.com/user-attachments/assets/3c96f978-4984-47d5-9553-06b9dd2de34b)
 
-![Health Project](https://github.com/user-attachments/assets/2d696328-a3a8-4803-9311-001ee6701398)
+![Oakwood Healthcare project](https://github.com/user-attachments/assets/b71135b5-db0b-4629-ade3-5f8ba2ed6cfb)
+
 
 ---
 ### Inference and Insights
